@@ -2,7 +2,7 @@
 
 ![Window](images/jp/window.png)
 
-## Language
+## 言語
 
 [English](README.md)
 [日本語](README_JP.md)

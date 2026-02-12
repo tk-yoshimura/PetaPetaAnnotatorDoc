@@ -57,6 +57,8 @@ The completed deliverables are submitted as ZIP-compressed XML files generated w
 
 This tool prioritizes usability and operational efficiency, providing a practical and streamlined annotation environment for real-world AI development.
 
+![Workflow](images/uni/workflow.png)  
+
 ## Trial version available
 
 Before purchasing the full version, please test it with the free trial version to ensure compatibility.
