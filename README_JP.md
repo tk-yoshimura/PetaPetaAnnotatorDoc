@@ -64,3 +64,7 @@ AIの専門知識がなくても直感的に操作できる設計となってお
 正規版を購入される際は、事前に無料試用版での動作確認を推奨いたします。
 
 [無料試用版](https://github.com/tk-yoshimura/PetaPetaAnnotatorDoc/releases)
+
+## 利用規約
+
+[利用規約](UserAgreement/UserAgreement_jp.txt)

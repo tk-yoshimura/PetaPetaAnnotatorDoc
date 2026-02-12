@@ -1,0 +1,67 @@
+﻿ANNOTATION SOFTWARE TERMS OF USE
+
+These Annotation Software Terms of Use (hereinafter referred to as the “Terms”) set forth the conditions governing the use of the software provided by the developer. Any individual or entity that uses the software (hereinafter referred to as the “User”) shall be deemed to have agreed to these Terms.
+
+Article 1 (Copyright and Ownership of Rights)
+
+All copyrights and any and all other intellectual property rights in and to the software shall be owned exclusively by the developer, T. Yoshimura (hereinafter referred to as the “Developer”).
+
+These Terms grant the User a license to use the software and shall not be construed as transferring or assigning any copyrights or other intellectual property rights to the User.
+
+Article 2 (Grant of License)
+
+Subject to the User’s compliance with these Terms, the Developer hereby grants to the User a non-exclusive, non-transferable license to use the software.
+
+The User may use the software for the User’s own business and research purposes.
+
+Commercial use of the software is permitted; provided, however, that the User shall not sell, sublicense, distribute, or otherwise provide the software itself to any third party, whether independently or as part of any service.
+
+Article 3 (Prohibited Acts)
+
+The User shall not:
+
+Redistribute the software to any third party without the prior written consent of the Developer;
+
+Reverse engineer, disassemble, decompile, or otherwise attempt to analyze the software;
+
+Create derivative works of the software and provide such works to any third party;
+
+Use the software for any purpose that violates applicable laws or public order and morals;
+
+Permit use of the software by anti-social forces or engage in any conduct associated therewith.
+
+Article 4 (Data Handling)
+
+All rights in and to any data created, entered, or stored by the User through the use of the software shall belong to the User.
+
+The Developer shall not acquire or use the User’s data, except where the User has provided separate and explicit consent.
+
+The User shall be solely responsible for backing up any data created or stored through the software.
+
+Article 5 (Disclaimer of Warranties and Limitation of Liability)
+
+The software is provided on an “AS IS” basis.
+
+The Developer makes no representations or warranties, whether express or implied, including but not limited to warranties of completeness, accuracy, usefulness, or fitness for a particular purpose.
+
+The Developer shall not be liable for any damages incurred by the User arising out of or in connection with the use of, or inability to use, the software.
+
+Article 6 (Suspension of Use)
+
+In the event that the User breaches any provision of these Terms, the Developer may suspend the User’s use of the software without prior notice.
+
+Article 7 (Modification or Termination of the Software)
+
+The Developer may modify, suspend, or terminate the provision of all or part of the software at its discretion. The Developer shall not be liable for any damages incurred by the User as a result thereof.
+
+Article 8 (Amendments)
+
+The Developer may amend these Terms at its discretion.
+
+Any amendments shall become effective upon notification within the software or by any other method designated by the Developer.
+
+Continued use of the software after such amendments shall constitute acceptance of the amended Terms.
+
+Article 9 (Governing Law and Jurisdiction)
+
+These Terms shall be governed by and construed in accordance with the laws of Japan. Any disputes arising out of or in connection with the software shall be subject to the exclusive jurisdiction of the district court having jurisdiction over the Developer’s principal place of business as the court of first instance.
