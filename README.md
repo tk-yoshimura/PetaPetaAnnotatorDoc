@@ -23,7 +23,7 @@ Segmentation tasks can be completed entirely with a mouse. The control scheme is
 
 ## Standalone Operation
 
-The software operates entirely in a local environment. Because no external servers are required, it can be safely used in environments handling sensitive or confidential data.
+The software operates entirely in a local environment. Because no external servers are required, it can be safely used in environments handling sensitive or confidential data. This software does not collect any user usage data whatsoever.
 
 ## Auto-Save
 
