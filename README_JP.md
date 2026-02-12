@@ -67,4 +67,4 @@ AIの専門知識がなくても直感的に操作できる設計となってお
 
 ## 利用規約
 
-[利用規約](UserAgreement/UserAgreement_jp.txt)
+[利用規約](UserAgreement/UserAgreement_ja.txt)
