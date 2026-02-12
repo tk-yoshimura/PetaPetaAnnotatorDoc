@@ -47,6 +47,8 @@ Supported output formats include XML, CSV, and PNG (segmentation masks either me
 
 The interface support English. 
 
+![Icon](images/en/icon.png)  
+
 ## Workflow
 
 In practical operation, the requester provides images and segmentation specifications to the operator. The operator performs annotation using this software.
