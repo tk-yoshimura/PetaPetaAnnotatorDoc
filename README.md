@@ -63,4 +63,4 @@ This tool prioritizes usability and operational efficiency, providing a practica
 
 Before purchasing the full version, please test it with the free trial version to ensure compatibility.
 
-[Trial-Version](releases)
+[Trial-Version](https://github.com/tk-yoshimura/PetaPetaAnnotatorDoc/releases)
