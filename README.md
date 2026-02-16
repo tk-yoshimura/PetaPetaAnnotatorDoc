@@ -7,6 +7,10 @@
 [English](README.md)
 [日本語](README_JP.md)
 
+## Install
+
+[Microsoft Store](https://apps.microsoft.com/detail/9mxtwzd6s03f)
+
 ## Concept
 
 This software is a graphical annotation tool developed to streamline data collection in AI development, particularly image annotation, which remains one of the most significant challenges in the field. It is designed to be usable even by individuals with no knowledge of AI.

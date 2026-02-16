@@ -7,6 +7,10 @@
 [English](README.md)
 [日本語](README_JP.md)
 
+## インストール
+
+[Microsoft Store](https://apps.microsoft.com/detail/9mxtwzd6s03f)
+
 ## コンセプト
 
 本ソフトウェアは、AI開発において大きな課題となっているデータ収集、とりわけ画像アノテーション作業を効率化するために開発された、AIが分からなくても使える、グラフィカルなアノテーションツールです。
