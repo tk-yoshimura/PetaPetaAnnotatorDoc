@@ -2,6 +2,11 @@
 
 Utilities for converting annotation XML into Pascal VOC XML and visualizing results.
 
+## Language
+
+[English](README.md)
+[日本語](README_JP.md)
+
 ## Overview
 
 This folder contains helper scripts and notebooks for:
