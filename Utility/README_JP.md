@@ -95,4 +95,4 @@ VOC_XML_PATH = Path("0001.xml")
 
 ## ユーティリティ群のライセンス
 
-[MIT](Utility/LICENSE)
+[MIT](LICENSE)

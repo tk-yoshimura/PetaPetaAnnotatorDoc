@@ -95,4 +95,4 @@ Then execute to display the image with bounding boxes and polygons.
 
 ## Utilities License
 
-[MIT](Utility/LICENSE)
+[MIT](LICENSE)
