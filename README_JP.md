@@ -70,7 +70,7 @@ AIの専門知識がなくても直感的に操作できる設計となってお
 [無料試用版](https://github.com/tk-yoshimura/PetaPetaAnnotatorDoc/releases)
 [Microsoft Store](https://apps.microsoft.com/detail/9pl74bhcqvpw)
 
-## 開発者向けユーティリティ
+## 開発者向けユーティリティ (PASCAL VOC converter など)
 [Utility](Utility)
 
 ## 利用規約

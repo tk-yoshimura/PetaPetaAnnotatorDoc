@@ -70,7 +70,7 @@ Before purchasing the full version, please test it with the free trial version t
 [Trial-Version](https://github.com/tk-yoshimura/PetaPetaAnnotatorDoc/releases)
 [Microsoft Store](https://apps.microsoft.com/detail/9pl74bhcqvpw)
 
-## Developer Utility
+## Developer Utility (PASCAL VOC converter etc.)
 [Utility](Utility)
 
 ## User Agreement
