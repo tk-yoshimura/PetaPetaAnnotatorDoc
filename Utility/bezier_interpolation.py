@@ -1,4 +1,8 @@
-﻿import numpy as np
+﻿# Copyright (c) T.Yoshimura
+# https://github.com/tk-yoshimura
+
+
+import numpy as np
 
 from bezier_control_point import bezier_closed_curve, bezier_open_curve
 

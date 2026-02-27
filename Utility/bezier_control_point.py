@@ -1,3 +1,7 @@
+# Copyright (c) T.Yoshimura
+# https://github.com/tk-yoshimura
+
+
 import numpy as np
 
 def bezier_open_curve(points, tension):
