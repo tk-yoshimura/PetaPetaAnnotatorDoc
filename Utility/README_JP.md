@@ -21,7 +21,7 @@
   - アノテーション XML を Pascal VOC XML に変換します。
   - バッチモードで対応する画像拡張子: `.png`, `.jpg`, `.jpeg`
 - `xml_to_polygon.py`
-  - アノテーション XML を解析し、`Point`, `Polygon`, `Rect`, `RotatedRect`, `Circle`, `Ellipse`, `Curve`, `ClosedCurve` をポリゴン点列に変換します。
+  - アノテーション XML を解析し、`Polygon`, `Rect`, `RotatedRect`, `Circle`, `Ellipse`, `Curve`, `ClosedCurve` をポリゴン点列に変換します。
 - `pascal_voc_visualization.ipynb`
   - 1件の Pascal VOC XML を `bndbox` と `polygon` オーバーレイ付きで可視化します。
 - `bezier_control_point.py`, `bezier_interpolation.py`, `bezier_region.py`

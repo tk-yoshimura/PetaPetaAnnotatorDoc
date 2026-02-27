@@ -21,7 +21,7 @@ This folder contains helper scripts and notebooks for:
   - Converts annotation XML to Pascal VOC XML.
   - Batch mode supports image extensions: `.png`, `.jpg`, `.jpeg`.
 - `xml_to_polygon.py`
-  - Parses annotation XML and converts geometry (`Point`, `Polygon`, `Rect`, `RotatedRect`, `Circle`, `Ellipse`, `Curve`, `ClosedCurve`) into polygon points.
+  - Parses annotation XML and converts geometry (`Polygon`, `Rect`, `RotatedRect`, `Circle`, `Ellipse`, `Curve`, `ClosedCurve`) into polygon points.
 - `pascal_voc_visualization.ipynb`
   - Visualizes one Pascal VOC XML file with `bndbox` and `polygon` overlays.
 - `bezier_control_point.py`, `bezier_interpolation.py`, `bezier_region.py`
