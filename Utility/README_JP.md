@@ -17,9 +17,16 @@
 
 ## ファイル構成
 
-- `to_pascal_voc.py`
-  - アノテーション XML を Pascal VOC XML に変換します。
-  - バッチモードで対応する画像拡張子: `.png`, `.jpg`, `.jpeg`
+- `convert_to_pascal_voc.py`
+  - CLIエントリーポイント兼、互換インポート窓口です。
+- `get_image_size.py`
+  - `.png` / `.jpg` / `.jpeg` の画像サイズ読み取り処理です。
+- `polygon_to_bbox_util.py`
+  - `polygon_to_bbox` と VOC向けポリゴン座標正規化処理です。
+- `load_annotation.py`
+  - XML/画像の読み込みと、画像-アノテーションペア検出処理です。
+- `convert_to_pascal_voc_kernel.py`
+  - Pascal VOC 変換と XML 保存のオーケストレーション処理です。
 - `xml_to_polygon.py`
   - アノテーション XML を解析し、`Polygon`, `Rect`, `RotatedRect`, `Circle`, `Ellipse`, `Curve`, `ClosedCurve` をポリゴン点列に変換します。
 - `pascal_voc_visualization.ipynb`
@@ -49,7 +56,7 @@ pip install numpy matplotlib pillow
 - アノテーション: `<image_stem>_annotations.xml`
 
 ```bash
-python to_pascal_voc.py --input-dir . --output-dir .
+python convert_to_pascal_voc.py --input-dir . --output-dir .
 ```
 
 出力例:
@@ -62,7 +69,7 @@ python to_pascal_voc.py --input-dir . --output-dir .
 画像サイズ（width/height）が既知の場合に使用します。
 
 ```bash
-python to_pascal_voc.py \
+python convert_to_pascal_voc.py \
   --input-xml 0001_annotations.xml \
   --output-xml 0001.xml \
   --filename 0001.jpg \
@@ -101,3 +108,4 @@ VOC_XML_PATH = Path("0001.xml")
 ## ユーティリティ群のライセンス
 
 [MIT](LICENSE)
+

@@ -17,9 +17,16 @@ This folder contains helper scripts and notebooks for:
 
 ## Files
 
-- `to_pascal_voc.py`
-  - Converts annotation XML to Pascal VOC XML.
-  - Batch mode supports image extensions: `.png`, `.jpg`, `.jpeg`.
+- `convert_to_pascal_voc.py`
+  - CLI entry point and compatibility import surface.
+- `get_image_size.py`
+  - Image-size readers for `.png` / `.jpg` / `.jpeg`.
+- `polygon_to_bbox_util.py`
+  - `polygon_to_bbox` and polygon coordinate normalization for VOC.
+- `load_annotation.py`
+  - XML/image loading and image-annotation pair discovery.
+- `convert_to_pascal_voc_kernel.py`
+  - Pascal VOC conversion and XML save orchestration.
 - `xml_to_polygon.py`
   - Parses annotation XML and converts geometry (`Polygon`, `Rect`, `RotatedRect`, `Circle`, `Ellipse`, `Curve`, `ClosedCurve`) into polygon points.
 - `pascal_voc_visualization.ipynb`
@@ -49,7 +56,7 @@ Scan a directory recursively for image + annotation pairs:
 - annotation: `<image_stem>_annotations.xml`
 
 ```bash
-python to_pascal_voc.py --input-dir . --output-dir .
+python convert_to_pascal_voc.py --input-dir . --output-dir .
 ```
 
 Example output:
@@ -62,7 +69,7 @@ Example output:
 Use when width/height are already known:
 
 ```bash
-python to_pascal_voc.py \
+python convert_to_pascal_voc.py \
   --input-xml 0001_annotations.xml \
   --output-xml 0001.xml \
   --filename 0001.jpg \
@@ -101,3 +108,4 @@ Then execute to display the image with bounding boxes and polygons.
 ## Utilities License
 
 [MIT](LICENSE)
+
